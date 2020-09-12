@@ -16,6 +16,6 @@ function init(){
   splash.style.display = "block";
   context.fillStyle = "white";
   context.fillRect(20, 20, 20, 20);
-  interval_id = window.setInterval(draw, 105);
+
 }
   
