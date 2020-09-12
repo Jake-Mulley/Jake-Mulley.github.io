@@ -14,7 +14,7 @@ function init(){
   height = canvas.height;
   splash  = document.getElementById("splashScreen");
   splash.style.display = "block";
-  context.fillStyle = white;
+  context.fillStyle = "white";
   context.fillRect(20, 20, 20, 20);
   interval_id = window.setInterval(draw, 105);
 }
