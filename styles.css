@@ -1,12 +1,17 @@
 body, main, aside, nav{
 	background-color: #374a45;
 	color: #fff;
-}
-#splashScreen{
+}#splashScreen{
 	position: fixed;
 	width: 100%;
 	hieght: 100vh;
 	text-align: center;
 	background-color: #000;
 	color: #fff;
+}canvas{
+    display: block;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid green;
 }
