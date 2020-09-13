@@ -3,8 +3,8 @@ body, main, aside, nav{
 	color: #fff;
 }#splashScreen{
 	position: fixed;
-	width: 100%;
-	hieght: 100%;
+	width: 100vw;
+	hieght: 100vh;
 	text-align: center;
 	background-color: #000;
 	color: #fff;
