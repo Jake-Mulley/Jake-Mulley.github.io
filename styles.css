@@ -2,7 +2,7 @@ body, main, aside, nav{
 	background-color: #374a45;
 	color: #fff;
 }#splashScreen{
-	position: fixed;
+	/*position: fixed;*/
 	width: 100vw;
 	hieght: 100vh;
 	text-align: center;
