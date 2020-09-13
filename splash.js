@@ -12,10 +12,10 @@ function init(){
   context = canvas.getContext('2d');
   width = canvas.width;
   height = canvas.height;
-  splash  = document.getElementById("splashScreen");
-  splash.style.display = "block";
-  context.fillStyle = "white";
-  context.fillRect(20, 20, 20, 20);
+  document.getElementById("splashScreen").style.display = "none";
+  //splash.style.display = "block";
+  //context.fillStyle = "white";
+  //context.fillRect(20, 20, 20, 20);
 
 }
   
