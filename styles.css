@@ -9,10 +9,11 @@ body, main, aside, nav{
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	z-index: 200;
-	line-height: 10em;
+	z-index: 10;
+	line-height: 50vh;
 	text-align: center;
 	background-color: #000;
+	background-image: radial-gradient(rgba(0,0,0,1), rgba(255,255,255,.5));
 	color: #fff;
 }@keyframes fade {
 	from {
