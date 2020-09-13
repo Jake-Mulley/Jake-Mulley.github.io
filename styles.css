@@ -13,11 +13,13 @@ body, main, aside, nav{
 	text-align: center;
 	background-color: #000;
 	color: #fff;
-}@keyframes fade{
-	to {
-		opacity: 1;
-	}
+}@keyframes fade {
+  0%   {opacity: 0;}
+  25%  {opacity: .25;}
+  50%  {opacity: .5;}
+  75%  {opacity: .75;}
+  100% {opacity: 1;}
 }.fade{
 	opacity: 0;
-	animation: fade;
+	animation: fade 2.5s 1;
 }
