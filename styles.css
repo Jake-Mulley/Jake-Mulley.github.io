@@ -3,6 +3,9 @@ body, main, aside, nav{
 	color: #fff;
 }#splashScreen{
 	/*position: fixed;*/
+	position: absolute; 
+	top: 0; 
+	left: 0;
 	width: 100vw;
 	hieght: 100vh;
 	text-align: center;
