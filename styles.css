@@ -9,7 +9,15 @@ body, main, aside, nav{
 	width: 100vw;
 	height: 100vh;
 	z-index: 200;
+	line-height: 10em;
 	text-align: center;
 	background-color: #000;
 	color: #fff;
+}@keyframes fade{
+	to {
+		opacity: 1;
+	}
+}.fade{
+	opacity: 0;
+	animation: fade;
 }
