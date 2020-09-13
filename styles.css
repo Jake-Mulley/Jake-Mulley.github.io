@@ -2,12 +2,13 @@ body, main, aside, nav{
 	background-color: #374a45;
 	color: #fff;
 }#splashScreen{
-	/*position: fixed;*/
-	position: absolute; 
+	position: fixed;
+	/*position: absolute; */
 	top: 0; 
 	left: 0;
 	width: 100vw;
 	hieght: 100vh;
+	z-index: 200;
 	text-align: center;
 	background-color: #000;
 	color: #fff;
