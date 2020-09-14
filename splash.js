@@ -15,10 +15,11 @@ function init(){
 }
 function displayNav(){
   console.log("Hello world!");
-  nav = document.getElementsByTagName("nav");
-  if (nav.style.display === "none") {
-    nav.style.display = "block"
+  
+  if (document.getElementsByTagName("nav").style.display === "none") {
+    document.getElementsByTagName("nav").style.display = "block"
   }else{
-    nav.style.display = "none"
+    document.getElementsByTagName("nav").style.display = "none"
   }
+  console.log("Test!");
 }
