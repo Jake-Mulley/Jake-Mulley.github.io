@@ -16,10 +16,10 @@ function init(){
 function displayNav(){
   console.log("Hello world!");
   
-  if (document.getElementsById("nav").style.display === "none") {
-    document.getElementsById("nav").style.display = "block"
+  if (document.getElementById("nav").style.display === "none") {
+    document.getElementById("nav").style.display = "block"
   }else{
-    document.getElementsById("nav").style.display = "none"
+    document.getElementById("nav").style.display = "none"
   }
   console.log("Test!");
 }
