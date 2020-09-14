@@ -14,6 +14,7 @@ function init(){
   
 }
 function displayNav(){
+  console.log("Hello world!");
   nav = document.getElementsByTagName("nav");
   if (nav.style.display === "none") {
     nav.style.display = "block"
