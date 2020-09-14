@@ -23,4 +23,6 @@ body, main, aside, nav{
 	animation: fade 2.5s 1;
 }#testBox{
 	background-color: black;
+}nav{
+	display: none;
 }
