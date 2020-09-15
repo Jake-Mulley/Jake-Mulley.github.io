@@ -21,8 +21,6 @@ body, main, aside, nav{
 }.fade{
 	/*opacity: 0;*/
 	animation: fade 2.5s 1;
-}#testBox{
-	background-color: blue;
 }nav{
 	display: none;
 }
