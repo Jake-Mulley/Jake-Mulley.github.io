@@ -10,8 +10,7 @@ body, main, aside, nav{
 	z-index: 10;
 	line-height: 50vh;
 	text-align: center;
-	background-color: #000;
-	background-image: radial-gradient(rgba(0,0,0,1), rgba(0,0,0,1), rgba(0,0,0,.75), rgba(255,255,255,.5));
+	background-image: radial-gradient(#ddd7, #eee6, #fff5, #fff4, #fff3, #fff2);
 	color: #fff;
 }@keyframes fade {
 	from {
