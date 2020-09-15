@@ -22,7 +22,7 @@ body, main, aside, nav{
 	/*opacity: 0;*/
 	animation: fade 2.5s 1;
 }#testBox{
-	background-color: black;
+	background-color: blue;
 }nav{
 	display: none;
 }
