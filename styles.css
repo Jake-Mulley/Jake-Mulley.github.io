@@ -10,7 +10,7 @@ body, main, aside, nav{
 	z-index: 10;
 	line-height: 50vh;
 	text-align: center;
-	background: radial-gradient(circle at 100%, #333, #333 50%, #eee 75%, #333 75%);
+	background: radial-gradient(circle at 100%, #666, #777 50%, #eee 80%, #777 95%);
 	color: #fff;
 }@keyframes fade {
 	from {
