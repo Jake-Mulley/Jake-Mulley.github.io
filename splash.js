@@ -18,4 +18,3 @@ function displayNav(){
     document.getElementById("nav").style.display = "none"
   }
 }
-
