@@ -7,6 +7,7 @@ let nav;
 let interval_id;
 
 
+
 document.addEventListener('DOMContentLoaded', init, false);
 function init(){
   setTimeout(function(){document.getElementById("splashScreen").style.display = "none";}, 2500);
