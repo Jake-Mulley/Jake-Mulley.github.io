@@ -1,16 +1,13 @@
 let canvas;
 let context;
-
 // width and height of canvas
 let canvasWidth;
 let canvasHeight;
-
 // boolean movement variables
 let moveRight;
 let moveDown;
 let moveLeft;
 let moveUp;
-
 // interval
 let interval_id;
 
