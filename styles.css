@@ -2,7 +2,6 @@ body, main, aside, nav{
 	font-family: Verdana, Tahoma, Garamond, Arial Black, Garuda;
 }#splashScreen{
 	position: fixed;
-	/*position: absolute; */
 	top: 0; 
 	left: 0;
 	width: 100vw;
